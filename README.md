@@ -6,7 +6,11 @@
 
 I'm a beginner developer. My journey into it began with courses from MSTU. N.E. Bauman, where I took the intensive course “Basic Technologies. Python for data analysis." After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried my hand at web development, but most of all I was hooked on Data Science and its breadth of application! Currently, I have completed my training from the National Research University ITMO University in the Data Scientist course, but after the courses I realized that I wanted to further develop in this area and began to study Machine Learning
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vladimirvyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
+<p align="center">
+ <img width="600" src="[assets/github-snake.svg](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg)" alt="snake"/>
+</p>
+
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-vladimirvyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
 
 ---
 ### 🤝 Social media:
