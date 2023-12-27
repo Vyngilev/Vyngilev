@@ -15,7 +15,7 @@ I'm a beginner developer. My journey into it began with courses from MSTU. N.E. 
     <a href="www.linkedin.com/in/vladimir-vyngilev-537456236/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
----
+
 
 ### 💻 Technologies:
 
