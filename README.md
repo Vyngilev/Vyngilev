@@ -60,15 +60,3 @@ I'm a beginner developer. My journey into it began with courses from MSTU. N.E. 
 | National Research University ITMO/Data Analyst (Data Scientist)       | 08/2023 - 12/2023 |
 | KARPOV COURSES/ Machine Learning                                      | 10/2023 - 04/2024 |
 
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Vyngilev&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vyngilev&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
