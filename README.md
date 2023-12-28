@@ -45,7 +45,7 @@ I'm a beginner developer. My journey into it began with courses from MSTU. N.E. 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ### 💻 Пройденные курсы:
+<!-- ### 💻 Courses completed:
 
 | Курсы                                                                 | Дата              |
 | ----------------------------------------------------------------------| :---------------: |
