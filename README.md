@@ -47,7 +47,7 @@ I'm a beginner developer. My journey into it began with courses from MSTU. N.E. 
 
 <!-- ### 💻 Courses completed:
 
-<p>| Курсы                                                                 | Дата              |</p>
+| Курсы                                                                 | Дата              |
 | ----------------------------------------------------------------------| :---------------: |
 | МГТУ им. Н.Э. Баумана/«Basic Technologies. Python for data analysis»  | 01/2022 - 02/2022 |
 | stepik.org/Introduction to Data Science and Machine Learning          | 04/2022 - 07/2022 |
