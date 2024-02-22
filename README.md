@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a beginner developer. My journey into it began with courses from MSTU. N.E. Bauman, where I took the intensive course “Basic Technologies. Python for data analysis." After the intensive there was a gap of a couple of months, where I tried myself in many directions, tried my hand at web development, but most of all I was hooked on Data Science and its breadth of application! Currently, I have completed my training from the National Research University ITMO University in the Data Scientist course, but after the courses I realized that I wanted to further develop in this area and began to study Machine Learning
+I'm a data analyst. My journey into it began with courses at Moscow State Technical University. N.E. Bauman, where I took an intensive course “Basic technologies. Python for data analysis." After the intensive there was a break of a couple of months, where I tried myself in many directions, tried my hand at web development, but most of all I was hooked on Data Science and the breadth of its application! Currently, I have completed my studies at NRU ITMO on the Data Analyst/Data Scientist course, but after the courses I realized that I want to further develop in this area of data engineering.
 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
