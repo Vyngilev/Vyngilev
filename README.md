@@ -55,9 +55,9 @@ I'm a data analyst. My journey into it began with courses at Moscow State Techni
 | МГТУ им. Н.Э. Баумана/«Basic Technologies. Python for data analysis»  | 01/2022 - 02/2022 |
 | stepik.org/Introduction to Data Science and Machine Learning          | 04/2022 - 07/2022 |
 | KARPOV COURSES/ Basics python                                         | 02/2023 - 03/2023 |
-| KARPOV COURSES/ Simulator SQL                                         | 03/2023 - 05/2023 |
-| KARPOV COURSES/ Docker                                                | 05/2023 - 06/2023 |
+| KARPOV COURSES/ Simulator SQL                                         | 03/2023 - 05/2022 |
+| KARPOV COURSES/ Docker                                                | 05/2023 - 06/2022 |
 | stepik.org/Basics of Statistics                                       | 05/2023 - 06/2023 |
-| stepik.org/Beginner SQL Course: From Beginner to Expert               | 07/2023 - 08/2023 |
+| stepik.org/Beginner SQL Course: From Beginner to Expert               | 07/2023 - 08/2022 |
 | stepik.org/Backend development on Django: from scratch to specialist  | 05/2023 - 08/2023 |
 | National Research University ITMO/Data Analyst (Data Scientist)       | 08/2023 - 12/2023 |
