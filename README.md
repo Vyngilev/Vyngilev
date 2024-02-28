@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a data analyst. My journey into it began with courses at Moscow State Technical University. N.E. Bauman, where I took an intensive course “Basic technologies. Python for data analysis." After the intensive there was a break of a couple of months, where I tried myself in many directions, tried my hand at web development, but most of all I was hooked on Data Science and the breadth of its application! Currently, I have completed my studies at NRU ITMO on the Data Analyst/Data Scientist course, but after the courses I realized that I want to further develop in this area of data engineering.
+I am a data analyst, interested in learning new developments in the field of Data Analyst, in my free time I study Data Engineering
 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
