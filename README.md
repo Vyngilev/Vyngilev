@@ -31,7 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotli" alt="matplotli" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
@@ -48,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
