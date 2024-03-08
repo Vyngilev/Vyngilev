@@ -4,7 +4,10 @@
 
 ### :man_technologist: About me:
 
-I am a data analyst, interested in learning new developments in the field of Data Analyst, in my free time I study Data Engineering
+👩‍💻 I believe that constant learning and self-improvement are important for development in the field of programming and analytics. It is important for me not only to learn new knowledge, but also to find new meanings and applications in it.
+🔍 I am always focused on the end result and know how to highlight important aspects of the work. For me, lack of results is also a result that helps me learn lessons and draw conclusions for future projects.
+🤝 For me, the culture and values of the company play an important role. I value teamwork, relationships and trust, which contribute to effective work and achievement of common goals.
+💬 I'm not afraid to ask questions and admit my mistakes. I believe that it is better to try and learn from your mistakes than not to try at all. I am always ready to learn and develop, knowing that it is important not to know everything, but to be able to find the necessary information and apply it in practice.
 
 <p align="center">
  <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
