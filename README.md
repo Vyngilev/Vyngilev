@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-👩‍💻 I believe that constant learning and self-improvement are important for development in the field of programming and analytics. It is important for me not only to learn new knowledge, but also to find new meanings and applications in it.
+<br👩‍💻 I believe that constant learning and self-improvement are important for development in the field of programming and analytics. It is important for me not only to learn new knowledge, but also to find new meanings and applications in it./>
 🔍 I am always focused on the end result and know how to highlight important aspects of the work. For me, lack of results is also a result that helps me learn lessons and draw conclusions for future projects.
 🤝 For me, the culture and values of the company play an important role. I value teamwork, relationships and trust, which contribute to effective work and achievement of common goals.
 💬 I'm not afraid to ask questions and admit my mistakes. I believe that it is better to try and learn from your mistakes than not to try at all. I am always ready to learn and develop, knowing that it is important not to know everything, but to be able to find the necessary information and apply it in practice.
