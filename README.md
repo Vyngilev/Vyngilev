@@ -9,10 +9,7 @@
 ##### 🤝 For me, the culture and values of the company play an important role. I value teamwork, relationships and trust, which contribute to effective work and achievement of common goals.
 ##### 💬 I'm not afraid to ask questions and admit my mistakes. I believe that it is better to try and learn from your mistakes than not to try at all. I am always ready to learn and develop, knowing that it is important not to know everything, but to be able to find the necessary information and apply it in practice.
 
-<p align="center">
- <img width="600" src="https://github.com/DeeMMoon/DeeMMoon/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
-
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladimirVyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
 ---
 ### 🤝 Social media:
 
