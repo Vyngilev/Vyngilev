@@ -4,9 +4,9 @@
 
 ### :man_technologist: About me:
 
-##### 👩‍💻 My name is Vladimir. In testing, I like to improve the product and make it convenient for users. I quickly master new tools, adapt to new conditions, and pay attention to details..
+##### 👩‍💻 Меня зовут Владимир. В тестировании мне нравится улучшать продукт и делать его удобным для пользователей. Быстро осваиваю новые инструменты, адаптируюсь к новым условиям, и внимателен к деталям.
 
-##### 💬 Before starting my career in testing, I worked for 10 years as a PTO engineer in construction, where I gained valuable experience in working with documentation, data analysis and quality control, which became an excellent basis for my current work in the field of QA.
+##### 💬 До того, как начать карьеру в тестировании, я в течение 10 лет работал инженером ПТО в строительстве, где приобрел опыт работы с документацией, анализа данных и контроля качества, что значительно помогает мне в текущей профессии.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladimirVyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
 ---
@@ -21,40 +21,41 @@
 ### 💻 Technologies:
 #### 💻 Frontend Testing:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/iconsfigma/figma-original.svg" title="figma" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotli" alt="matplotli" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+DevTools: Диагностика и отладка frontend-элементов, проверка адаптивности, отслеживание сетевых запросов, выявление проблем с производительностью.
+Figma: Взаимодействие с макетами для тестирования интерфейсов, проверка на соответствие требованиям дизайна (Pixel Perfect).
+Pixel Perfect: Сравнение макетов с реализованными интерфейсами для точного соответствия дизайну.
+Charles: Анализ HTTP-запросов и ответов, перехват и модификация трафика для диагностики и тестирования взаимодействия между клиентом и сервером.
 </div>
 
----
+#### 💻 Backend Testing:
+<div>
+Postman: Тестирование REST API, создание коллекций запросов, работа с переменными, выполнение cUrl-запросов, написание тестов и пре-реквестов для автоматизации тестирования.
+Swagger: Чтение документации API, выполнение запросов для проверки соответствия спецификации.
+Kibana: Сбор и анализ логов, мониторинг данных для выявления ошибок в работе системы.
+Grafana: Мониторинг систем и анализ метрик для выявления аномалий и проблем с производительностью.
+Git и GitLab CICD: Работа с системами контроля версий, настройка CI/CD пайплайнов для автоматизации процесса тестирования и развертывания.
+PostgreSQL и DBeaver: Работа с базами данных, выполнение сложных SQL-запросов (SELECT, JOIN, UNION) для проверки данных и их валидации.
+Kafka UI: Работа с топиками Kafka, чтение и добавление сообщений для тестирования интеграций и потоковой обработки данных.
+</div>
 
-### 🛠 Tools:
+#### 💻 API-тестирование:
+<div>
+REST API и JSON API: Тестирование функциональности API, проверка корректности запросов и ответов, а также их соответствия бизнес-требованиям.
+Анализ логов: Использование инструментов для диагностики ошибок и проблем в API-интерфейсах на основе анализа логов.
+</div>
+
+#### 💻 Базы данных:
+<div>
+PostgreSQL: Выполнение запросов для валидации данных, диагностики ошибок, а также анализа сложных выборок с использованием SQL-запросов (SELECT, JOIN, UNION).
+DBeaver: Взаимодействие с базами данных, выполнение запросов и просмотр данных для проведения тестирования и анализа.
+</div>
+
+
+#### 🛠 Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+Agile: Опыт работы по методологиям Agile (Scrum, Kanban), участие в планировании спринтов, ежедневных встречах, ретроспективах.
+Yandex Tracker, Jira: Ведение баг-репортов, управление задачами и их статусов, настройка и использование досок для отслеживания прогресса.
+TestIT: Ведение тестовой документации (тест-кейсы, чек-листы), регистрация багов, отчетность по тестированию.
 </div>
 
-<!-- ### 💻 Courses completed:
-
-| Курсы                                                                 | Дата              |
-| ----------------------------------------------------------------------| :---------------: |
-| МГТУ им. Н.Э. Баумана/«Basic Technologies. Python for data analysis»  | 01/2022 - 02/2022 |
-| stepik.org/Introduction to Data Science and Machine Learning          | 04/2022 - 07/2022 |
-| KARPOV COURSES/ Basics python                                         | 02/2023 - 03/2023 |
-| KARPOV COURSES/ Simulator SQL                                         | 03/2023 - 05/2022 |
-| KARPOV COURSES/ Docker                                                | 05/2023 - 06/2022 |
-| stepik.org/Basics of Statistics                                       | 05/2023 - 06/2023 |
-| stepik.org/Beginner SQL Course: From Beginner to Expert               | 07/2023 - 08/2022 |
-| stepik.org/Backend development on Django: from scratch to specialist  | 05/2023 - 08/2023 |
-| National Research University ITMO/Data Analyst (Data Scientist)       | 08/2023 - 12/2023 |
