@@ -4,10 +4,9 @@
 
 ### :man_technologist: About me:
 
-##### 👩‍💻 I believe that constant learning and self-improvement are important for development in the field of programming and analytics. It is important for me not only to learn new knowledge, but also to find new meanings and applications in it.
-##### 🔍 I am always focused on the end result and know how to highlight important aspects of the work. For me, lack of results is also a result that helps me learn lessons and draw conclusions for future projects.
-##### 🤝 For me, the culture and values of the company play an important role. I value teamwork, relationships and trust, which contribute to effective work and achievement of common goals.
-##### 💬 I'm not afraid to ask questions and admit my mistakes. I believe that it is better to try and learn from your mistakes than not to try at all. I am always ready to learn and develop, knowing that it is important not to know everything, but to be able to find the necessary information and apply it in practice.
+##### 👩‍💻 My name is Vladimir. In testing, I like to improve the product and make it convenient for users. I quickly master new tools, adapt to new conditions, and pay attention to details..
+
+##### 💬 Before starting my career in testing, I worked for 10 years as a PTO engineer in construction, where I gained valuable experience in working with documentation, data analysis and quality control, which became an excellent basis for my current work in the field of QA.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladimirVyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
 ---
