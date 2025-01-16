@@ -36,9 +36,6 @@
 - Работа над аналитическими сервисами для персонального финансового планирования
 
 ## 📫 Как связаться со мной:
-- **Email:** [ваш email]
-- **LinkedIn:** [ссылка на профиль]
-- **GitHub:** [github.com/ваш-аккаунт]
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladimirVyngilev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Wyngilev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:wyngilev@gmail.com)
 ---
